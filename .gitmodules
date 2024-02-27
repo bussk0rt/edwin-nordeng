@@ -1,0 +1,3 @@
+[submodule "tietoweb"]
+	path = tietoweb
+	url = git@gitlab.tanvgs.no:Busskort/tietoweb.git
